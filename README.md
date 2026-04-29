@@ -13,7 +13,7 @@
 ## 🏆 Прогресс в Learning Git Branching
 
 
-> ![Прогресс 1](./learning_git_branch.png) *(замени на имя своего файла в папке img)*
+> ![Прогресс 1](./learning_git_branch.png) 
 
 
 ---
